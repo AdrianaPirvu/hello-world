@@ -1,1 +1,1 @@
-print("Hello World din PiCharm si GitHub")
+print("Hello World din PyCharm si GitHub")
